@@ -1,4 +1,4 @@
-public class lakshman{
+public class add{
  public void main(){
  int a =1;
  int b=2;
